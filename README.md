@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DN-Pixel
-- 👀 I’m interested in coding, java FX atm, 
+- 👀 I’m interested in coding, java FX atm 
 - 🌱 I’m currently learning Python, and many others
-- 💞️ I’m looking to collaborate on game dev'
+- 💞️ I’m looking to collaborate on anything related to security online and game development.
 - 📫 How to reach me :
 david.94190@hotmail.fr
 
