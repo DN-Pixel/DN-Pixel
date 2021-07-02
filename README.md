@@ -1,5 +1,5 @@
 <h1 align="right"><i>Pixel Perfect</i></h1>
-<img src="https://miro.medium.com/max/2160/1*yLoplkhUrNsQGkocFEVhhA.gif" width="1600" height="600" />
+<img src="https://miro.medium.com/max/2160/1*yLoplkhUrNsQGkocFEVhhA.gif" width="1600" height="400" />
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=DN-Pixel&count_private=true&show_icons=true&theme=tokyonight)
 
