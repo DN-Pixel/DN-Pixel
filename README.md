@@ -1,8 +1,13 @@
 <h1 align="right"><i>Pixel Perfect</i></h1>
-![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DN-Pixel&layout=compact&theme=tokyonight&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-- 👋 Hi, I’m @DN-Pixel
-- 👀 I’m interested in coding, java FX atm 
-- 🌱 I’m currently learning Python, and many others
+
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=DN-Pixel&count_private=true&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DN-Pixel&layout=compact&theme=tokyonight&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+- 👋 Hi, I’m David NAZICAL : @DN-Pixel!
+- 👀 I’m interested in coding, mostly java FX atm! 
+- 🌱 I’m currently learning Python, and Angular!
 - 💞️ I’m looking to collaborate on anything related to security online and game development.
 - 📫 How to reach me :
 david.94190@hotmail.fr
