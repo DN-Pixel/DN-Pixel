@@ -1,5 +1,5 @@
 
-<img src="https://miro.medium.com/max/2160/1*yLoplkhUrNsQGkocFEVhhA.gif" width="1600" height="350"  />
+<img title = "PIXEL" src="https://miro.medium.com/max/2160/1*yLoplkhUrNsQGkocFEVhhA.gif" width="1600" height="350"  />
 <h1 align="center"><i>Pixel Perfect</i></h1>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=DN-Pixel&count_private=true&show_icons=true&theme=tokyonight)
