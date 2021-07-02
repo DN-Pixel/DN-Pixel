@@ -1,4 +1,4 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<simple>/?username=<DN-Pixel>&theme=<Dark>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<DN-Pixel>&theme=<Dark>" />
 - 👋 Hi, I’m @DN-Pixel
 - 👀 I’m interested in coding, java FX atm 
 - 🌱 I’m currently learning Python, and many others
