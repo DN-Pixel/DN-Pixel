@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m David NAZICAL : @DN-Pixel!
 - 👀 I’m interested in coding, mostly java FX atm! 
-- 🌱 I’m currently learning Python, and Angular!
+- 🌱 I’m currently learning JS, Python and Angular!
 - 💞️ I’m looking to collaborate on anything related to security online and game development.
 - 📫 How to reach me :
 david.94190@hotmail.fr
