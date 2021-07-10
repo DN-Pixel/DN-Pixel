@@ -3,7 +3,7 @@
 <h1 align="center">Every single detail matter, we need to be <i> Pixel Perfect</i></h1>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DN-Pixel&layout=compact&theme=tokyonight&count_private=true&langs_count=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DN-Pixel&layout=compact&theme=tokyonight&count_private=true&langs_count=16)
 
 - 👋 Hi, I’m David NAZICAL : @DN-Pixel!
 - 👀 I’m interested in coding, mostly java FX atm! 
