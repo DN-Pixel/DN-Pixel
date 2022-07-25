@@ -1,5 +1,5 @@
 
-<img src="https://miro.medium.com/max/2160/1*yLoplkhUrNsQGkocFEVhhA.gif" width="1600" height="350"/>
+<img src="https://miro.medium.com/max/2160/1*yLoplkhUrNsQGkocFEVhhA.gif" width="100%" height="350"/>
 <h1 align="center">Every single detail matter, we need to be <i> Pixel Perfect</i></h1>
 
 
